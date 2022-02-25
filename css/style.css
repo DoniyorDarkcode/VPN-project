@@ -579,6 +579,7 @@ header{
   height: 15px;
   border: 0px solid;
   border-radius: 50%;
+  text-decoration: none;
   transition: all 0.3s ease;
   background-color: #DDE0E4;
 }
@@ -620,6 +621,7 @@ header{
   display: flex;
   border-radius: 50%;
   align-items: center;
+  text-decoration: none;
   justify-content: center;
   border: 2px solid #F53838;
 }
@@ -737,6 +739,7 @@ footer{
 .footer__list {
   width: 600px;
   display: flex;
+  padding: 0;
   list-style-type: none;
   justify-content: space-between;
 }
@@ -744,6 +747,7 @@ footer{
   margin-bottom: 30px;
 }
 .footer__panel {
+  padding: 0;
   list-style-type: none;
 }
 .footer__link {
