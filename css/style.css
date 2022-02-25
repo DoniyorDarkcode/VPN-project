@@ -142,22 +142,22 @@ header{
   justify-content: space-between;
   margin-bottom: 107px;
 }
-.hero_content {
+.hero-content {
   width: 555px;
 }
-.hero__heading {
+.hero-content__heading {
   margin: 0;
   font-weight: 500;
   font-size: 50px;
   line-height: 70px;
   color: #0B132A;
 }
-.hero__text {
+.hero-content__text {
   font-size: 16px;
   line-height: 30px;
   color: #4F5665;
 }
-.hero__btn {
+.hero-content__btn {
   text-align: center;
   font-weight: bold;
   font-size: 16px;
@@ -469,12 +469,12 @@ header{
 }
 
 /* section customer */
+#customer {
+  margin-bottom: 200px;
+}
 .x-container{
   width: 1340px;
   margin: 0 auto;
-}
-#customer {
-  margin-bottom: 200px;
 }
 .customer__heading {
   font-size: 35px;
