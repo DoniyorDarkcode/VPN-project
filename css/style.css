@@ -507,8 +507,7 @@ header{
   border-radius: 10px;
   background: #FFFFFF;
   box-sizing: border-box;
-  border: 2px solid #F53838;
-  border: 2px solid #DDDDDD;
+  border: 4px solid #DDDDDD;
 }
 .customer__item:hover{
   cursor: pointer;
